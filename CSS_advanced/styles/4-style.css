@@ -15,12 +15,12 @@ html {
 }
 
 body {
-	color: var(--text-color)
+	color: var(--text-color);
 	font-family: var(--font-family-base);
 }
 
 a {
-	color: var(--text-color)
+	color: var(--text-color);
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -32,9 +32,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .card-category {
-	color: var(--color-primary)
+	color: var(--color-primary);
 }
 
 .section-tagline {
-	color: var(--color-primary)
+	color: var(--color-primary);
 }
