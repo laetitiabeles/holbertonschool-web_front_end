@@ -231,31 +231,6 @@ ul.row {
 	margin-left: auto;
 }
 
-.footer {
-	padding: var(--footer-padding);
-}
-
-.footer-address {
-	color: var(--text-color);
-}
-
-.social-link {
-	display: block;
-}
-.social-link > svg {
-	fill: var(--text-color);
-}
-
-.footer-copyright {
-	margin: 0;
-	font-size: var(--font-size-small);
-	color: var(--text-color);
-}
-
-.footer ul {
-	text-align: right;
-}
-
 /* Cards */
 
 .card-services .card-title {
@@ -285,4 +260,29 @@ ul.row {
 	display: block;
 	padding-top: 1rem;
 	color: var(--color-primary);
+}
+
+.footer {
+	padding: var(--footer-padding);
+}
+
+.footer-address {
+	color: var(--text-color);
+}
+
+.social-link {
+	display: block;
+}
+.social-link > svg {
+	fill: var(--text-color);
+}
+
+.footer-copyright {
+	margin: 0;
+	font-size: var(--font-size-small);
+	color: var(--text-color);
+}
+
+.footer ul {
+	text-align: right;
 }
