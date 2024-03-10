@@ -85,6 +85,14 @@ html {
 	font-size: 62.5%;
 }
 
+body {
+	color: var(--text-color);
+	font-family: var(--font-family-base);
+	font-size: var(--font-size-medium);
+	font-weight: var(--font-weight-regular);
+	line-height: var(--line-height-base);
+}
+
 /* Header */
 
 .header {
@@ -98,14 +106,6 @@ html {
 	position: var(--header-logo-link-position);
 	top: var(--header-logo-link-top);
 	left: var(--header-logo-link-left);
-}
-
-body {
-	color: var(--text-color);
-	font-family: var(--font-family-base);
-	font-size: var(--font-size-medium);
-	font-weight: var(--font-weight-regular);
-	line-height: var(--line-height-base);
 }
 
 /* Navbar */
